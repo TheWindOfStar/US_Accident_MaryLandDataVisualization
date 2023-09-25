@@ -1,0 +1,13 @@
+name: US_acccidents_MaryLand
+title: US_acccidents_MaryLand
+username:
+account: thewindofstar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9976564
+bundleId: 7723959
+url: https://thewindofstar.shinyapps.io/US_acccidents_MaryLand/
+when: 1695637472.1581
+lastSyncTime: 1695637472.15811
+asMultiple: FALSE
+asStatic: FALSE
